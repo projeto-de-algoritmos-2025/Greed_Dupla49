@@ -26,7 +26,7 @@ Algoritmos principais utilizados:
 
 ## Instalação
 
-**Linguagem**: 
+**Linguagem**: Python
 
 <!-- Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários -->
 
