@@ -37,7 +37,7 @@ Para configurar o Planejamento UNB em sua máquina, siga os passos abaixo:
    ```
 3. Após a instalação, você pode iniciar o Planejamento UNB executando o script principal no terminal:
    ```bash
-   python app_gui.py
+   python main.py
    ```
 **Linguagem**: Python3
 
