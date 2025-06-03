@@ -72,3 +72,7 @@ Para configurar o Planejamento UNB em sua máquina, siga os passos abaixo:
 
 5. Modelos CLI
    ![Modelos CLI](./images/modelos_cli.png)
+
+### Gravação
+
+[Link da gravação](https://unbbr.sharepoint.com/:v:/s/PA790/EZb0d0QifZJKlU-KQtmBWfQBNZsqveyE3_LsDsY5ryvz6A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=43WMjv)
