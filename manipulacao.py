@@ -8,7 +8,7 @@ class Perfil:
         self.materiais: Dict[str, List[Item]] = {}
     def to_dict(self) -> Dict[str, Any]:
         return {
-            "nome": self.nome,git 
+            "nome": self.nome, 
             "grade": {dia: [tarefa.to_dict() for tarefa in tarefas] for dia, tarefas in self.grade.items()},
             "materiais": {disc: [item.to_dict() for item in itens] for disc, itens in self.materiais.items()},
         }

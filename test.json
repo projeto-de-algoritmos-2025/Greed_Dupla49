@@ -1,0 +1,304 @@
+{
+  "nome": "Perfil Engenharia de Software UNB ",
+  "grade": {
+    "segunda": [
+      {
+        "nome": "Aula: Requisitos de Software",
+        "inicio": 8,
+        "fim": 9,
+        "prioridade": 5,
+        "duracao": 2,
+        "prazo": 3
+      },
+      {
+        "nome": "Estudar Requisitos de Software",
+        "inicio": 10,
+        "fim": 12,
+        "prioridade": 4,
+        "duracao": 2,
+        "prazo": 4
+      },
+      {
+        "nome": "Projeto Integrador - Codificação",
+        "inicio": 14,
+        "fim": 17,
+        "prioridade": 5,
+        "duracao": 3,
+        "prazo": 7
+      },
+      {
+        "nome": "Leitura complementar: Métodos Ágeis",
+        "inicio": 19,
+        "fim": 20,
+        "prioridade": 2,
+        "duracao": 1,
+        "prazo": 5
+      }
+    ],
+    "terca": [
+      {
+        "nome": "Aula: Padrões de Projeto",
+        "inicio": 8,
+        "fim": 9,
+        "prioridade": 5,
+        "duracao": 2,
+        "prazo": 3
+      },
+      {
+        "nome": "Exercícios de Padrões de Projeto",
+        "inicio": 10,
+        "fim": 12,
+        "prioridade": 4,
+        "duracao": 2,
+        "prazo": 4
+      },
+      {
+        "nome": "Reunião de Grupo - Projeto Integrador",
+        "inicio": 14,
+        "fim": 15,
+        "prioridade": 3,
+        "duracao": 1,
+        "prazo": 5
+      },
+      {
+        "nome": "Preparar apresentação de Engenharia de Produto",
+        "inicio": 15,
+        "fim": 17,
+        "prioridade": 4,
+        "duracao": 2,
+        "prazo": 5
+      },
+      {
+        "nome": "Responder fórum online de Software",
+        "inicio": 18,
+        "fim": 19,
+        "prioridade": 2,
+        "duracao": 1,
+        "prazo": 6
+      }
+    ],
+    "quarta": [
+      {
+        "nome": "Aula: Qualidade de Software I",
+        "inicio": 8,
+        "fim": 9,
+        "prioridade": 5,
+        "duracao": 2,
+        "prazo": 4
+      },
+      {
+        "nome": "Estudar para Testes de Software",
+        "inicio": 10,
+        "fim": 12,
+        "prioridade": 3,
+        "duracao": 2,
+        "prazo": 5
+      },
+      {
+        "nome": "Revisar código para Projeto Integrador",
+        "inicio": 14,
+        "fim": 16,
+        "prioridade": 5,
+        "duracao": 2,
+        "prazo": 7
+      },
+      {
+        "nome": "Revisar artigos científicos para Seminário",
+        "inicio": 16,
+        "fim": 18,
+        "prioridade": 3,
+        "duracao": 2,
+        "prazo": 8
+      }
+    ],
+    "quinta": [
+      {
+        "nome": "Aula: Testes de Software",
+        "inicio": 8,
+        "fim": 9,
+        "prioridade": 5,
+        "duracao": 2,
+        "prazo": 5
+      },
+      {
+        "nome": "Preparar relatório de Qualidade de Software",
+        "inicio": 10,
+        "fim": 13,
+        "prioridade": 4,
+        "duracao": 3,
+        "prazo": 6
+      },
+      {
+        "nome": "Almoço e descanso",
+        "inicio": 13,
+        "fim": 14,
+        "prioridade": 0,
+        "duracao": 1,
+        "prazo": 6
+      },
+      {
+        "nome": "Planejar Sprint do Projeto Integrador",
+        "inicio": 14,
+        "fim": 16,
+        "prioridade": 4,
+        "duracao": 2,
+        "prazo": 7
+      },
+      {
+        "nome": "Leitura de livro de Design UX/UI",
+        "inicio": 16,
+        "fim": 17,
+        "prioridade": 2,
+        "duracao": 1,
+        "prazo": 8
+      }
+    ],
+    "sexta": [
+      {
+        "nome": "Entrega final - Projeto Integrador",
+        "inicio": 9,
+        "fim": 10,
+        "prioridade": 5,
+        "duracao": 1,
+        "prazo": 7
+      },
+      {
+        "nome": "Estudo livre / Recuperação",
+        "inicio": 10,
+        "fim": 12,
+        "prioridade": 1,
+        "duracao": 2,
+        "prazo": 8
+      },
+      {
+        "nome": "Revisar conceitos de Bancos de Dados",
+        "inicio": 14,
+        "fim": 16,
+        "prioridade": 3,
+        "duracao": 2,
+        "prazo": 9
+      },
+      {
+        "nome": "Preparar e-mail para professor",
+        "inicio": 16,
+        "fim": 16,
+        "prioridade": 2,
+        "duracao": 1,
+        "prazo": 7
+      }
+    ],
+    "sabado": [
+      {
+        "nome": "Estudar para prova de Algoritmos",
+        "inicio": 9,
+        "fim": 13,
+        "prioridade": 5,
+        "duracao": 4,
+        "prazo": 10
+      },
+      {
+        "nome": "Revisão geral de Compiladores",
+        "inicio": 14,
+        "fim": 17,
+        "prioridade": 4,
+        "duracao": 3,
+        "prazo": 11
+      }
+    ],
+    "domingo": [
+      {
+        "nome": "Descanso e lazer",
+        "inicio": 10,
+        "fim": 12,
+        "prioridade": 0,
+        "duracao": 2,
+        "prazo": 9
+      },
+      {
+        "nome": "Planejamento da próxima semana",
+        "inicio": 17,
+        "fim": 18,
+        "prioridade": 1,
+        "duracao": 1,
+        "prazo": 9
+      }
+    ]
+  },
+  "materiais": {
+    "Aula: Requisitos de Software": [
+      {
+        "nome": "Livro: Engenharia de Requisitos",
+        "peso": 2,
+        "utilidade": 5
+      },
+      { "nome": "Caderno de Anotações", "peso": 5, "utilidade": 4 },
+      { "nome": "Canetas (kit)", "peso": 1, "utilidade": 3 },
+      { "nome": "Laptop", "peso": 4, "utilidade": 5 },
+      { "nome": "Mouse sem fio", "peso": 1, "utilidade": 3 },
+      { "nome": "Cabo USB-C", "peso": 3, "utilidade": 2 }
+    ],
+    "Estudar Requisitos de Software": [
+      {
+        "nome": "Livro: Padrões de Projeto (GoF)",
+        "peso": 4,
+        "utilidade": 5
+      },
+      { "nome": "Livro: Refactoring", "peso": 3, "utilidade": 4 },
+      { "nome": "Apostila da Aula (impressa)", "peso": 1, "utilidade": 4 },
+      { "nome": "Bloco de notas", "peso": 1, "utilidade": 3 },
+      { "nome": "Marca-textos", "peso": 1, "utilidade": 2 }
+    ],
+    "Qualidade de Software I": [
+      { "nome": "Livro: Software Quality", "peso": 2, "utilidade": 5 },
+      { "nome": "Documentos NBR (impressos)", "peso": 1, "utilidade": 4 },
+      { "nome": "Caneta e Papel avulso", "peso": 2, "utilidade": 3 },
+      { "nome": "Calculadora científica", "peso": 4, "utilidade": 3 },
+      { "nome": "Réguas", "peso": 1, "utilidade": 2 }
+    ],
+    "Projeto Integrador": [
+      { "nome": "Notebook", "peso": 1, "utilidade": 5 },
+      { "nome": "Mouse", "peso": 2, "utilidade": 4 },
+      { "nome": "Fone de ouvido", "peso": 3, "utilidade": 3 },
+      { "nome": "Carregador do notebook", "peso": 5, "utilidade": 4 },
+      { "nome": "Pendrive 64GB", "peso": 1, "utilidade": 3 },
+      { "nome": "Tablet para anotações", "peso": 4, "utilidade": 4 },
+      { "nome": "Teclado Bluetooth compacto", "peso": 2, "utilidade": 3 },
+      { "nome": "Webcam USB", "peso": 1, "utilidade": 2 }
+    ],
+    "Testes de Software": [
+      {
+        "nome": "Livro: Test-Driven Development",
+        "peso": 1,
+        "utilidade": 5
+      },
+      {
+        "nome": "Documentação de Ferramentas de Teste",
+        "peso": 2,
+        "utilidade": 4
+      },
+      { "nome": "Óculos de leitura", "peso": 50, "utilidade": 2 }
+    ],
+    "Bancos de Dados": [
+      {
+        "nome": "Livro: Sistemas de Bancos de Dados",
+        "peso": 4,
+        "utilidade": 5
+      },
+      {
+        "nome": "Material didático online (impressão)",
+        "peso": 1,
+        "utilidade": 3
+      },
+      { "nome": "Canetas coloridas", "peso": 80, "utilidade": 2 }
+    ],
+    "Algoritmos": [
+      {
+        "nome": "Livro: Introduction to Algorithms",
+        "peso": 3,
+        "utilidade": 5
+      },
+      { "nome": "Folhas de rascunho", "peso": 100, "utilidade": 3 },
+      { "nome": "Lápis e borracha", "peso": 50, "utilidade": 2 }
+    ]
+  }
+}

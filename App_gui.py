@@ -40,7 +40,7 @@ class App(tk.Tk):
         self.tabs.add(tab, text="Algoritmos")
         self.alg_label = ttk.Label(tab, text="Selecione o algoritmo para executar:")
         self.alg_label.pack(pady=10)
-        self.alg_combo = ttk.Combobox(tab, values=["Knapsack", "Interval Scheduling", "A*", "Scheduling Min. Lateness"], state="readonly")
+        self.alg_combo = ttk.Combobox(tab, values=["Knapsack", "Interval Scheduling", "Scheduling Min. Lateness"], state="readonly")
         self.alg_combo.set("Knapsack")
         self.alg_combo.pack(pady=5)
         self.btn_rodar = ttk.Button(tab, text="Executar Algoritmo", command=self.executar_algoritmo)
@@ -234,8 +234,6 @@ class App(tk.Tk):
             self.resultado_knapsack()
         elif alg == "Interval Scheduling":
             self.resultado_interval_scheduling()
-        elif alg == "A*":
-            self.resultado_a_estrela()
         elif alg == "Scheduling Min. Lateness":
             self.resultado_min_lateness()
         else:
